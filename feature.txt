@@ -1,0 +1,5 @@
+Tính năng mới: Ứng dụng quản lý ghi chú cá nhân.
+Người dùng có thể tạo, sửa, xóa ghi chú.
+Dữ liệu được lưu trữ trong SQLite để dễ dàng truy xuất.
+Ứng dụng hỗ trợ tìm kiếm và phân loại ghi chú theo chủ đề.
+Giao diện đơn giản, thân thiện và dễ sử dụng.
