@@ -1,0 +1,16 @@
+Giới thiệu cá nhân:
+Tôi tên Lê Công Vinh
+Hiện đang là sinh viên năm 4 ngành Công nghệ Thông tin tại Đại học Nam Cần Thơ.
+Tôi quan tâm đến lập trình, quản lý mã nguồn và phát triển phần mềm.
+Mục tiêu của tôi là trở thành một lập trình viên chuyên nghiệp trong tương lai.
+Ngoài ra, tôi cũng thích tham gia các hoạt động nhóm và học hỏi công nghệ mới.
+
+Sở thích:
+- Đọc sách công nghệ
+- Lập trình và khám phá framework mới
+- Chơi bóng đá
+
+Kỹ năng:
+- Sử dụng Git và GitHub
+- Lập trình Java/Python
+- Làm việc nhóm và quản lý dự án
