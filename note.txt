@@ -1,5 +1,3 @@
 - Git giúp quản lý phiên bản mã nguồn dễ dàng.
 - Git hỗ trợ làm việc nhóm hiệu quả.
 - Git giúp theo dõi lịch sử thay đổi rõ ràng.
-- Git có thể khôi phục lại trạng thái trước đó.
-- Git tích hợp tốt với GitHub để chia sẻ dự án.
