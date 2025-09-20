@@ -1,8 +1,6 @@
-Hello, this is LECONGVINH
-Tôi là sinh viên năm 4 CNTT.
-=======
-Xin chào, tôi là Lê Công Vinh
->>>>>>> feature-update
+Hello, this is LECONGVINH 
+Xin chào, tôi là LECONGVINH 
+Conflict resolved on 20/09/2025
 Tôi tên Lê Công Vinh
 Hiện đang là sinh viên năm 4 ngành Công nghệ Thông tin tại Đại học Nam Cần Thơ.
 Tôi quan tâm đến lập trình, quản lý mã nguồn và phát triển phần mềm.
